@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nazanyilmaz/nazanyilmaz](https://github.com/nazanyilmaz/nazanyilmaz)
 
-- 📫 How to reach me **nazanyilmaz83@gmail.com**
+- 📫 How to reach me **nazanylmaz83@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nazan-yilmaz-56ba7579/](https://www.linkedin.com/in/nazan-yilmaz-56ba7579/)
 
