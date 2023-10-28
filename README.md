@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Nazan Yilmaz</h1>
 <h3 align="center">A passionate Software|React|Frontend Developer from USA</h3>
 
+![Screen Recording 2023-10-28 at 08 10 08 AM](https://github.com/nazanyilmaz/nazanyilmaz/assets/147782488/30941f3a-4e52-4f32-940c-ff39263df1d6)
+
+
+
 - 🔭 I’m currently working on **Software|React|Frontend Developer**
 
 - 🌱 I’m currently learning **Software|React|Frontend Developer**
