@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nazan Yilmaz</h1>
 <h3 align="center">A passionate Software|React|Frontend Developer from USA</h3>
 
+[
+](https://www.linkedin.com/in/nazan-yilmaz-56ba7579/)
 ![Screen Recording 2023-10-28 at 08 10 08 AM](https://github.com/nazanyilmaz/nazanyilmaz/assets/147782488/30941f3a-4e52-4f32-940c-ff39263df1d6)
 
 
